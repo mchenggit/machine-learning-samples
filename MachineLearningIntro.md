@@ -44,9 +44,11 @@ Here is an [example](https://scikit-learn.org/stable/modules/svm.html) classifyi
 
 ![SVC Example](images/SVC_Classification.jpg)
 
-Here is another example for semantic image segementation, to identify which 
+Another example, beyond classification of an image, is image segmentation, which is used to identify which object a pixel in the image below to. Here is an [example](https://labelbox.com/image-segmentation-overview)
 
-In genearl, classification problems include:
+![Image Segementation](images/ImageSegmentation.jpg)
+
+In general, classification problems include:
 - image recognition, including:
   - facial recognition, 
   - image classification
@@ -90,3 +92,10 @@ In Reinforcement learning, the model is an agent that takes action in an environ
 Examples of reinforcement learning include:
 - Playing games, such as [Alpha Zero](https://en.wikipedia.org/wiki/AlphaZero) that plays chess and go, and [Deep Stack](https://arxiv.org/abs/1701.01724) that plays poker.
 - [Data Center Power Reduction](https://deepmind.com/blog/article/deepmind-ai-reduces-google-data-centre-cooling-bill-40)
+- [Playing SUper Mario](https://www.youtube.com/watch?v=qv6UVOQ0F44)
+
+
+## Applying Machine Learning to Log Analysis
+
+Both supervised and unsupervised learning have been applied to log analysis. See [loglizer](https://github.com/logpai/loglizer) for a list of papers. Also see 
+[Drain3](https://github.com/IBM/Drain3) for an example of clustering analysis on logs.
