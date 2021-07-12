@@ -1,6 +1,6 @@
 # Machine Learning is Not Programming
 
-The  purpose of this repisotry is to showcase how machine learning differs from prograaming through illustrative samples, to help you build an intuition about how machine learning works. 
+The  purpose of this repository is to showcase how machine learning differs from programming through illustrative samples, to help you develop intuition about how machine learning works. 
 
 ## Introduction to Machine Learning
 
@@ -8,12 +8,12 @@ Start with a [quick introduction](MachineLearningIntro.md) to machine lerning.
 
 ## Reading the Jupyter Notebooks
 
-If you prefer to do some hand-on coding or experiments, proceed to the next section. Otherwise, just reading the included Jupyter notebooks is sufficient introduction to help you develop an intutuion about machine learning.
+If you prefer to do some hands-on coding or experiments, proceed to the next section. Otherwise, just reading the included Jupyter notebooks is sufficient introduction to help you develop an intutuion about machine learning.
 
- For those who prefer just reading , we suggest you go through the Jupyter notebooks in this order:
+ For those who prefer just reading, we suggest you go through the Jupyter notebooks in this order:
 - Get started with using [Linear Regression](01_LinearRegression.ipynb) to predict height from weight.
-- Read how [Logistic Regression](02_ImageClassification.ipynb) is used to classify simple images  such as hand written digits.
-- Complete the last two in the order fo your choosing:
+- Read how [Logistic Regression](02_ImageClassification.ipynb) is used to classify simple images such as hand written digits.
+- Complete the last two in the order of your choosing:
   - Read about how [Hierarchical Clustering](03_HierarchicalClustering.ipynb) is used in unsupervised learning for data exploration.
   - Read about how [neural network and deep learning](04_NeuralNetwork.ipynb) is used in image classification of complext images.
 
@@ -47,7 +47,7 @@ When you first point your browser to the notebook, you'll see an initial screen.
 ![Initial screen](images/JupyterInitialScreen.jpg)
 
 
-Each Jupyter notebook is divide dinto cells. Each cell may be a different type of content,  for example, Markdown a snippet, or Jython code fragments. The output of executable code is also displayed, if it had been run previously. 
+Each Jupyter notebook is divided into cells. Each cell may be a different type of content, for example, Markdown a snippet, or Jython code fragments. The output of executable code is also displayed, if it had been run previously. 
 
 
 ![Linear Regression Initial](images/LinearRegressionInitialScreen.jpg)
@@ -56,7 +56,7 @@ You may click on any cell to highlight it. You may change the code in the cell o
 
 There are two options to start over:
 - Use the `Kernel > Restart & Clear Output` menu option to clear everything. Then click on any cell where you want to start and then click on the `Run` button.
-- Use the `Kernel > Restart and Run All` menu option to clear everything and re-run everything from top to bottom all atonce. 
+- Use the `Kernel > Restart and Run All` menu option to clear everything and re-run everything from top to bottom all at once. 
 
 The two options are shown below:
 
