@@ -1,6 +1,6 @@
 # Introduction to Machine Learning
 
-[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) is the study of computer algorithms that *automatically* improves through experience, and by the *use of data*. Machine learning is not the same as programming, because it can automatically improve without more programming, but with more data.
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) is the study of computer algorithms that *automatically* improve through experience, and by the *use of data*. Machine learning is not the same as programming, because it can automatically improve without more programming, but with more data.
 
 Broadly speaking, there are three different types of machine learning:
 - supervised learning, where the desired output for input data is already known.
@@ -38,13 +38,13 @@ For classification, the input data is labeled. It contains:
 - one or more independent variables
 - additional labeled data that specifies the category the input data belongs to.
 
-The purpose of learning is to build a model to predict the the category for new input data. 
+The purpose of learning is to build a model to predict the category for new input data. 
 
 Here is an [example](https://scikit-learn.org/stable/modules/svm.html) classifying three different types of flowers. Each color blue, white, and red, represents a different type of flower. Note that the relationship is not a simple relationship between the flowers' sepal length and width.
 
 ![SVC Example](images/SVC_Classification.jpg)
 
-Another example, beyond classification of an image, is image segmentation, which is used to identify which object a pixel in the image below to. Here is an [example](https://labelbox.com/image-segmentation-overview)
+Another example, beyond classification, is image segmentation, which is used to identify which object a pixel in the image belongs to. Here is an [example](https://labelbox.com/image-segmentation-overview)
 
 ![Image Segementation](images/ImageSegmentation.jpg)
 
@@ -84,7 +84,7 @@ Applications of clustering analysis include:
 
 
 In Reinforcement learning, the model is an agent that takes action in an environment. This then triggers a state change, and the reward of the new state is fed to the agent. The agent learns by balancing bewteen 
-- exploring new actions that may lead to lead to higher long term reward
+- exploring new actions that may lead to higher long term reward
 - exploiting actions with known rewards.
 
 ![Reinforcement Learning](images/Reinforcement_Learning.jpg)
