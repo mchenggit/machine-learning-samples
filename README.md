@@ -4,11 +4,11 @@ The  purpose of this repository is to showcase how machine learning differs from
 
 ## Introduction to Machine Learning
 
-Start with a [quick introduction](MachineLearningIntro.md) to machine lerning.
+Start with a [quick introduction](MachineLearningIntro.md) to machine learning.
 
 ## Reading the Jupyter Notebooks
 
-If you prefer to do some hands-on coding or experiments, proceed to the next section. Otherwise, just reading the included Jupyter notebooks is sufficient introduction to help you develop an intutuion about machine learning.
+If you prefer to do some hands-on coding or experiments, proceed to the next section. Otherwise, just reading the included Jupyter notebooks is sufficient introduction to help you develop an intuition about machine learning.
 
  For those who prefer just reading, we suggest you go through the Jupyter notebooks in this order:
 - Get started with using [Linear Regression](01_LinearRegression.ipynb) to predict height from weight.
