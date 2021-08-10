@@ -22,9 +22,10 @@ If you prefer to do some hands-on coding or experiments, proceed to the next sec
 
 You are encouraged to try the interactive portions of the labs. Follow the steps below to build and run a docker image to run the lab: 
 
-
+- Clone this repo: `git clone git@github.com:mchenggit/machine-learning-samples.git`
+- Change directory: `cd machine-learning-samples/`
 - Build docker image: `docker build -t ml-sample .`
-- Run the image: `docker run -ti --rm ml-sample`
+- Run the image: `docker run -ti --rm -p8888:8888 ml-sample`
 - After the container starts, it will print out several URLs for you to access the Jupyter notebook. Open a browser to access one of the URLs, one that best matches the network configuration for your environment. For example:
 ```
 [I 15:21:18.001 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
