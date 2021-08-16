@@ -15,7 +15,7 @@ If you prefer to do some hands-on coding or experiments, proceed to the next sec
 - Read how [Logistic Regression](02_ImageClassification.ipynb) is used to classify simple images such as hand written digits.
 - Complete the last two in the order of your choosing:
   - Read about how [Hierarchical Clustering](03_HierarchicalClustering.ipynb) is used in unsupervised learning for data exploration.
-  - Read about how [neural network and deep learning](04_NeuralNetwork.ipynb) is used in image classification of complext images.
+  - Read about how [neural network and deep learning](04_NeuralNetwork.ipynb) is used in image classification of complex images.
 
 
 ## Interacting with the Jupyter notebooks
